@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
-        microcms-nuxt-blog
+        microCMS-Nuxt-Blog
       </h1>
       <ul>
         <li v-for="content in contents" :key="content.id">
